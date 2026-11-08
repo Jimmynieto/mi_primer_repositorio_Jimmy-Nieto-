@@ -1,4 +1,4 @@
-id_cliente,nombre,correo,edad,ciudad
+cliente,nombre,correo,edad,ciudad
 1,Luis Perez,luisp@gmail.com,24,Quito
 2,María López,marial@gmail.com.com,30,Guayaquil
 3,Carlos Andrade,carlosa@gmail.com,28,Cuenca
