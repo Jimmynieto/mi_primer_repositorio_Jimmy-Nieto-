@@ -1,6 +1,6 @@
-cliente,nombre,correo,edad,ciudad
-1,Ana Torres,anat@gmail.com,22,Ambato
-2,Carlos Andrade,carlosa@gmail.com,28,Cuenca
-3,David Mendoza,davidm@gmail.com,35,Manta
-4,Luis Perez,luisp@gmail.com,24,Quito
-5,María López,marial@gmail.com,30,Guayaquil
+nombre,correo,edad,ciudad
+Ana Torres,anat@gmail.com,22,Ambato
+Carlos Andrade,carlosa@gmail.com,28,Cuenca
+David Mendoza,davidm@gmail.com,35,Manta
+Luis Perez,luisp@gmail.com,24,Quito
+María López,marial@gmail.com,30,Guayaquil
