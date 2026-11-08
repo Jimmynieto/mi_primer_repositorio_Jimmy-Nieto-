@@ -1,0 +1,6 @@
+id_venta,producto,cantidad,precio,fecha
+1,Laptop,1,850.00,2026-11-01
+2,Mouse,2,15.50,2026-11-02
+3,Teclado,1,45.00,2026-11-02
+4,Monitor,2,199.99,2026-11-03
+5,Auriculares,1,59.90,2026-11-04
